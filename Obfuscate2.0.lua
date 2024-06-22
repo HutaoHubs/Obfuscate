@@ -23,3 +23,10 @@ Tab:Button{
 	Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/HutaoHubs/Script-op/main/MM2.lua"))() end
      
 }
+
+Tab:Button{
+	Name = "•~Welcome To BloxBurg~•",
+	Description = "Autofarming HairDresser",
+	Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/HutaoHubs/BloxBurgAutoFarming/main/Autofarm.lua"))() end
+     
+}
